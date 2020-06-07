@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Copyright (c) 2020 CorvusROM
@@ -34,5 +35,10 @@
 
     <!-- Whether device has a big physical display cutout -->
     <java-symbol type="bool" name="config_physicalDisplayCutoutCentered" />
+    <!-- Whether to show a custom view for FOD -->
+    <java-symbol type="bool" name="config_needCustomFODView" />
+
+    <!-- FOD icon dimming -->
+    <java-symbol type="bool" name="config_targetUsesInKernelDimming" />
 
 </resources>

@@ -40,4 +40,7 @@
     <!-- Screen off delay -->
     <integer name="config_screen_off_delay">0</integer>
 
+    <!-- FOD icon dim-->
+    <bool name="config_targetUsesInKernelDimming">false</bool>
+
 </resources>
