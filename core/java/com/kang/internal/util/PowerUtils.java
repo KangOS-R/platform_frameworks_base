@@ -16,7 +16,7 @@
  *
  */
 
-package com.corvus.internal.util;
+package com.kang.internal.util;
 
 import android.content.Context;
 import android.os.PowerManager;

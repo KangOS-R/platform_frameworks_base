@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.corvus;
+package com.android.internal.util.kang;
 
 import android.util.Log;
 
