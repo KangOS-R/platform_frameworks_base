@@ -13,7 +13,7 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-package com.android.internal.util.corvus;
+package com.android.internal.util.kang;
 
 import android.content.Context;
 
