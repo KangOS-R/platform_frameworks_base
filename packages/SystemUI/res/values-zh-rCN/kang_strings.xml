@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Heads Up QS Tile -->
+    <string name="quick_settings_heads_up_label">弹出通知</string>
+    <string name="accessibility_quick_settings_heads_up_off">弹出通知 关</string>
+    <string name="accessibility_quick_settings_heads_up_on">弹出通知 开</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">弹出通知已关闭</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">弹出通知已打开</string>
+
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">切换数据卡</string>
+    <string name="qs_data_switch_toast_0">Currently no SIM card is inserted</string>
+    <string name="qs_data_switch_toast_1">Currently only one SIM card is inserted</string>
+    <string name="qs_data_switch_changed_1">使用SIM1作为移动数据卡</string>
+    <string name="qs_data_switch_changed_2">使用SIM2作为移动数据卡</string>
+
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU浮窗</string>
+    <string name="accessibility_quick_settings_cpuinfo_off">CPU浮窗关</string>
+    <string name="accessibility_quick_settings_cpuinfo_on">CPU浮窗开</string>
+    <string name="accessibility_quick_settings_cpuinfo_changed_off">CPU浮窗 已关闭</string>
+    <string name="accessibility_quick_settings_cpuinfo_changed_on">CPU浮窗 已打开</string>
+
+    <!-- Reboot/Recovery QS tile -->
+    <string name="quick_settings_reboot_label">重启</string>
+    <string name="quick_settings_reboot_recovery_label">恢复模式</string>
+
+</resources>
