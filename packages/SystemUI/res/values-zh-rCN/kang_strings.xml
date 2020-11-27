@@ -26,8 +26,8 @@
 
     <!-- DataSwitch Tile -->
     <string name="qs_data_switch_label">切换数据卡</string>
-    <string name="qs_data_switch_toast_0">Currently no SIM card is inserted</string>
-    <string name="qs_data_switch_toast_1">Currently only one SIM card is inserted</string>
+    <string name="qs_data_switch_toast_0">当前未插入SIM卡</string>
+    <string name="qs_data_switch_toast_1">目前仅插入了一张SIM卡</string>
     <string name="qs_data_switch_changed_1">使用SIM1作为移动数据卡</string>
     <string name="qs_data_switch_changed_2">使用SIM2作为移动数据卡</string>
 
